@@ -79,5 +79,16 @@ footer {
 footer div {
     width: 64px;
 }
+@media (max-width: 768px) {
+    header {
+        padding-left: 25px;
+    }
+}
+.content-image {
+    height: 70vh;
+}
+footer {
+    padding: 0px 25px;
+}
 
 
